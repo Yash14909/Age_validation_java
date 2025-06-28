@@ -14,11 +14,11 @@ This Java project demonstrates the use of **custom exceptions** in Java. The pro
 
 ## 🧾 File Structure
 
-.
-├── P12P1.java # Main class to input age and validate
-├── AgeException.java # Custom exception class
-├── README.md # Project overview and usage instructions
-└── .gitignore # Files to be ignored by Git
+
+1.) P12P1.java # Main class to input age and validate
+2.) AgeException.java # Custom exception class
+3.) README.md # Project overview and usage instructions
+4.).gitignore # Files to be ignored by Git
 
 
 ---
